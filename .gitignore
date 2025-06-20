@@ -1,0 +1,5 @@
+# pythonの仮想環境(venv)
+venv/
+
+# Pythonキャッシュ
+__pycache__/
